@@ -1,0 +1,51 @@
+.carousell {
+  background-color: #fceae8;
+  border-radius: 10px;
+}
+
+.carousel-button button {
+  background-color: #ff2d80;
+  border-radius: 8px;
+  font-size: 17px;
+  padding: 8px 24px;
+}
+
+.categories img {
+  width: 120px;
+}
+
+.categories-dettails {
+  padding-top: 70px;
+}
+
+.panda-card {
+  border: 0px;
+}
+
+.panda-card-footer {
+  background-color: white;
+  border: 0;
+}
+
+.panda-card-footer button {
+  background-image: linear-gradient(60deg, #ff3a88, #ff3d8a);
+  border-radius: 8px;
+  font-size: 17px;
+  padding: 8px 20px;
+}
+
+.subscription {
+  height: 650px;
+  background-color: #fceae8;
+  border-radius: 5px;
+}
+
+.form-button button {
+  background-color: #ff2d80;
+}
+
+@media (max-width: 668px) {
+  .gutter-part {
+    padding-bottom: 15px;
+  }
+}
